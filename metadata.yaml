@@ -1,0 +1,31 @@
+_repo: The-Camp-Fire-Girls-on-the-edge-of-the-desert_72632
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vandercook, Margaret
+    alias: Vandercook, Margaret O'Bannon Womack
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '2838'
+    url: http://www.gutenberg.org/2009/agents/2838
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Vandercook
+description: ''
+gutenberg_issued: '2024-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72632'
+language: en
+pgterms:marc905: 20220508131658vandercook
+pgterms:marc906: '1917'
+pgterms:marc907: us
+production_note: Richard Tonsing, David Edwards, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aPhiladelphia :$bThe John C. Winston Co., $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Camp Fire Girls on the edge of the desert
+url: http://www.gutenberg.org/ebooks/72632
